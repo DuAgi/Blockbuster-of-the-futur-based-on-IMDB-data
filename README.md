@@ -1,2 +1,2 @@
-# Blockbuster-of-the-futur-based-on-IMDB-data
-Analysis with python, power BI, JASP
+# Blockbuster-of-the-futur-based-on-IMDB-data 
+Analysis with python, power BI, JASP 
